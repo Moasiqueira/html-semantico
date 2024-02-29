@@ -1,0 +1,4 @@
+body{
+    width: 80vw; /* 80% viewport widht (janela de visão)*/
+    margin: auto; /* define as margens automaticas (mesmo valor para ambos os "lados")*/
+}
