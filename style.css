@@ -1,0 +1,19 @@
+/* seletoir de elemento */
+body{
+    width: 80vw; /* 80% viewport widht (janela de visão)*/
+    margin: auto; /* define as margens automaticas (mesmo valor para ambos os "lados")*/
+}
+
+/* seletor de ID  */
+#artigos{
+    background-color: aquamarine;
+    display: flex;  /* EXIBIÇÃO COMO  CAIXA FLEXIVEL */
+}
+
+#meusHobbies{
+    background-color: rgb(250, 247, 16);
+}
+
+#minhaCarreira {
+    background-color: rgb(221, 1, 255);
+}
